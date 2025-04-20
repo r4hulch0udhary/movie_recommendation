@@ -71,8 +71,5 @@ This project is a RESTful API application that serves as a movie recommendation 
 ## API Documentation
 - Access the Swagger UI at `http://localhost:8000/swagger/` for API documentation.
 
-## Contributing
-- Contributions are welcome! Please fork the repository and submit a pull request.
-
 ## License
 - This project is licensed under the MIT License.
