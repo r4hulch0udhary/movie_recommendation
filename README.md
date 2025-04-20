@@ -28,8 +28,8 @@ This project is a RESTful API application that serves as a movie recommendation 
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/r4hulch0udhary/movie_recommendation.git
+   cd movie_recommendation
    ```
 
 2. **Create a virtual environment and activate it:**
@@ -66,11 +66,6 @@ This project is a RESTful API application that serves as a movie recommendation 
 - **Unit Tests:**
   ```bash
   python manage.py test
-  ```
-- **Test Coverage:**
-  ```bash
-  coverage run -m pytest
-  coverage report
   ```
 
 ## API Documentation
